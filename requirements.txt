@@ -1,0 +1,5 @@
+pandas==1.1.1
+Pillow==7.2.0
+tensorflow==2.3.0
+tensorflow-ranking==0.3.2
+tensorflow-serving-api==2.3.0
